@@ -1,2 +1,0 @@
--- Step 1: Question
--- How do I track when a record was last modified?
