@@ -1,0 +1,2 @@
+-- Step 2: Begin Answer
+-- I will use a trigger to automatically update fields after an update.

@@ -1,0 +1,3 @@
+-- Step 6: Next Question
+-- How do I track who modified the record?
+-- Answer: Already handled using SUSER_NAME() in trigger.
